@@ -46,34 +46,34 @@ ___
 
 ### Результаты работы и тестирования
 #### Сравнение результирующих изображений
-![Тестовое изображение 1](test_images/image_1.jpg)
+![Тестовое изображение 1](report_materials/images/test_image_1.jpg)
 *Тестовое изображение 1.*
 
-![Изображение 1, библиотечный метод, ядро 3x3](results/images/image_1_library_k3.png)
+![Изображение 1, библиотечный метод, ядро 3x3](report_materials/images/image_1_library_k3.png)
 *Изображение 1, библиотечный метод, ядро 3x3.*
 
-![Изображение 1, библиотечный метод, ядро 9x9](results/images/image_1_library_k9.png)
+![Изображение 1, библиотечный метод, ядро 9x9](report_materials/images/image_1_library_k9.png)
 *Изображение 1, библиотечный метод, ядро 9x9.*
 
-![Изображение 1, нативный метод, ядро 3x3](results/images/image_1_native_k3.png)
+![Изображение 1, нативный метод, ядро 3x3](report_materials/images/image_1_native_k3.png)
 *Изображение 1, нативный метод, ядро 3x3.*
 
-![Изображение 1, нативный метод, ядро 9x9](results/images/image_1_native_k9.png)
+![Изображение 1, нативный метод, ядро 9x9](report_materials/images/image_1_native_k9.png)
 *Изображение 1, нативный метод, ядро 9x9.*
 
-![Тестовое изображение 2](test_images/image_2.png)
+![Тестовое изображение 2](report_materials/images/test_image_2.png)
 *Тестовое изображение 2.*
 
-![Изображение 2, библиотечный метод, ядро 3x3](results/images/image_2_library_k3.png)
+![Изображение 2, библиотечный метод, ядро 3x3](report_materials/images/image_2_library_k3.png)
 *Изображение 2, библиотечный метод, ядро 3x3.*
 
-![Изображение 2, библиотечный метод, ядро 9x9](results/images/image_2_library_k9.png)
+![Изображение 2, библиотечный метод, ядро 9x9](report_materials/images/image_2_library_k9.png)
 *Изображение 2, библиотечный метод, ядро 9x9.*
 
-![Изображение 2, нативный метод, ядро 3x3](results/images/image_2_native_k3.png)
+![Изображение 2, нативный метод, ядро 3x3](report_materials/images/image_2_native_k3.png)
 *Изображение 2, нативный метод, ядро 3x3.*
 
-![Изображение 2, нативный метод, ядро 9x9](results/images/image_2_native_k9.png)
+![Изображение 2, нативный метод, ядро 9x9](report_materials/images/image_2_native_k9.png)
 *Изображение 2, нативный метод, ядро 9x9.*
 
 ---
